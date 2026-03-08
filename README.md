@@ -57,7 +57,7 @@ A real-time push notification service built with Node.js, Express, RabbitMQ, and
 1. Clone the repository
 ```bash
 git clone https://github.com/Gaurav-Salian/notification-service
-cd notification-service2
+cd notification-service
 ```
 
 2. Install dependencies
